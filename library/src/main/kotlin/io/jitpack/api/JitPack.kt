@@ -1,4 +1,4 @@
-package com.example.demolib
+package io.jitpack.api
 
 object JitPack
 {
